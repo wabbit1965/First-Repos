@@ -1,2 +1,3 @@
 # First-Repos
 Brand new repository for a noob...
+This is my second attempt at trying to use GitHub.  Using it is something that I need to learn and understand as it is a tool that is used in many organizations to develop software from an open source platform. 
